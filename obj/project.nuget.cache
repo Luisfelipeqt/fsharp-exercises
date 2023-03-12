@@ -1,0 +1,10 @@
+{
+  "version": 2,
+  "dgSpecHash": "jwjW3PT7/vjBghSZNwSxzEEqWMYApfO+FYI1wKpKvj/zsX8NBJKPudHxt/NaUwvcYmjZyutelBd5zryTaeA8sg==",
+  "success": true,
+  "projectFilePath": "C:\\Users\\felipe\\Desktop\\F# - Fundamentos\\PrimeiroProjetoFSharp\\PrimeiroProjetoFSharp.fsproj",
+  "expectedPackageFiles": [
+    "C:\\Users\\felipe\\.nuget\\packages\\fsharp.core\\7.0.300-beta.23114.3\\fsharp.core.7.0.300-beta.23114.3.nupkg.sha512"
+  ],
+  "logs": []
+}
